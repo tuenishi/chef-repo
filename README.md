@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deprecated
 ==========
 
@@ -35,3 +36,6 @@ Next Steps
 ==========
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
+=======
+# chef-repo
+>>>>>>> 19b95bbe5004917cabf3bd527ed1d290a2de3b37
